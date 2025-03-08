@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/AssaneTech/CheckPoint_TypeScript_Fundamentals/issues"
   },
-  "homepage": "https://github.com/AssaneTech/CheckPoint_TypeScript_Fundamentals#readme",
-  "devDependencies": {
-    "typescript": "^5.8.2"
-  }
+  "homepage": "https://github.com/AssaneTech/CheckPoint_TypeScript_Fundamentals#readme"
 }
