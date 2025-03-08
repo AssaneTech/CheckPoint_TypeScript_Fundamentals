@@ -1,0 +1,24 @@
+{
+  "name": "9.typescript-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssaneTech/CheckPoint_TypeScript_Fundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AssaneTech/CheckPoint_TypeScript_Fundamentals/issues"
+  },
+  "homepage": "https://github.com/AssaneTech/CheckPoint_TypeScript_Fundamentals#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
